@@ -9,7 +9,7 @@ const Hero = () => {
         </div>
 
         <a
-          href="https://github.com"
+          href="https://github.com/AjaySingh91/AI-Summarizer"
           target="_blank"
           rel="noreferrer"
           className="hover:translate-x-1 transition-all duration-300"
